@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Violet-ctrlc
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Python and IoT
+- 🌱 I’m currently learning Python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

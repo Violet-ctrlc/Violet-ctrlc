@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Violet-ctrlc
+- 👋 Hi, I’m @Baran
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python and c++
 - 💞️ I’m looking to collaborate on ...
